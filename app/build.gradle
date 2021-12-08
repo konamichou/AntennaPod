@@ -86,7 +86,7 @@ android {
             resValue "string", "provider_authority", "de.danoeh.antennapod.provider"
             minifyEnabled true
             shrinkResources true
-            signingConfig signingConfigs.releaseConfig
+            //signingConfig signingConfigs.releaseConfig
         }
     }
 
